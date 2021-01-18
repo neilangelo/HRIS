@@ -1,0 +1,10 @@
+.nav-text {
+  list-style: none;
+}
+.nav-text a {
+  text-decoration: none;
+  color: #1d1b1b;
+  font-size: 18px;
+  width: 95%;
+  height: 100%;
+}
